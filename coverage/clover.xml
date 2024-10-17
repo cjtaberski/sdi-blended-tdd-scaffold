@@ -1,34 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1729176949061" clover="3.2.0">
-  <project timestamp="1729176949062" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="14" coveredelements="14" complexity="0" loc="10" ncloc="10" packages="1" files="6" classes="6"/>
-    <file name="grade.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/grade.js">
+<coverage generated="1729181028857" clover="3.2.0">
+  <project timestamp="1729181028857" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="1" methods="14" coveredmethods="14" elements="41" coveredelements="40" complexity="0" loc="25" ncloc="25" packages="1" files="6" classes="6"/>
+    <file name="grade.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/grade.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
     </file>
-    <file name="index.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/index.js">
+    <file name="index.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/index.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="1" count="1" type="stmt"/>
+      <line num="1" count="2" type="stmt"/>
     </file>
-    <file name="individualClass.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/individualClass.js">
+    <file name="individualClass.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/individualClass.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
     </file>
-    <file name="school.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/school.js">
+    <file name="school.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/school.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
     </file>
-    <file name="student.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/student.js">
-      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="3" count="1" type="stmt"/>
+    <file name="student.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/student.js">
+      <metrics statements="16" coveredstatements="16" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="10"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
     </file>
-    <file name="teacher.js" path="/home/mart/28Sandbox/sdi-blended-tdd-scaffold/src/teacher.js">
+    <file name="teacher.js" path="/home/cjtaberski/projects/sdi-blended-tdd-scaffold/src/teacher.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="3" count="4" type="stmt"/>
       <line num="8" count="1" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
